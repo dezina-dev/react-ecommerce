@@ -1,0 +1,15 @@
+.cart-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  
+  .cart-card {
+    width: 300px;
+    margin-bottom: 16px;
+  }
+  
+  .product-data {
+    margin-top: 16px;
+  }
+  
