@@ -1,6 +1,6 @@
 ## Local URL
 
-To run the project on a local environment with a local backend server, use the following URL: [http://localhost:3001/](http://localhost:3001/)
+To run the project on a local environment with a local backend server, use the following URL: [http://localhost:3000/](http://localhost:3000/)
 
 ## Start Commands According to Environment
 
@@ -12,7 +12,7 @@ The entry point for the backend is `index.ts`.
 
 ## Database Name
 
-This project uses Postgres as its database.
+This project uses Mongodb as its database.
 
 ## Getting Started
 
